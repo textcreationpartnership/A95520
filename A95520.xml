@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer to the rattle-heads concerning their fictionate resolution of the Round-Heads. Wherein is explained euerie particular therein contained against them, with many godly counsels to Doctor Little-wit: the composer of their former scurrulous and illeterate pamphlet.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95520</idno>
+            <idno type="STC">Wing T428</idno>
+            <idno type="STC">Thomason E132_30</idno>
+            <idno type="STC">ESTC R19036</idno>
+            <idno type="EEBO-CITATION">99860550</idno>
+            <idno type="PROQUEST">99860550</idno>
+            <idno type="VID">156374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156374)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer to the rattle-heads concerning their fictionate resolution of the Round-Heads. Wherein is explained euerie particular therein contained against them, with many godly counsels to Doctor Little-wit: the composer of their former scurrulous and illeterate pamphlet.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLJ. [1641, i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to John Taylor.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roundheads --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156374:1" rendition="simple:additions"/>
+            <p>THE ANSWER TO THE RATTLE-HEADS Concerning their fictionate Reſolution OF THE ROUND-HEADS. <hi>WHEREIN</hi> Is explained euerie particular therein contained againſt them, with many godly counſels to Doctor Little-wit: the Compoſer of their former ſcurrulous and illeterate Pamphlet.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>L. H.</hi> MDCXLJ.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156374:2"/>
+            <pb facs="tcp:156374:2"/>
+            <head>THE ANSWER TO The Rattle-Heads, <hi>Concerning their fictionate Reſolution of</hi> The Round-Heads.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F Truth and Peace, <hi>Zacharies</hi> two Companions, had met in you, aſwell as us, this Con<g ref="char:EOLhyphen"/>troverſie had never been. The ſeverring of theſe two, hath cauſed this ill-compoſed a<g ref="char:EOLhyphen"/>ſperſion upon us, which we could bear and put up, yea burie in oblivion, but that <hi>zeal</hi> for the truth of Religion and our own defence, commands the contrarie.</p>
+            <p>God knowes how unwillingly we put our hands to this unkinde quarrell. Nothing ſo much abates
+<pb facs="tcp:156374:3"/>the courage of Chriſtians, as to call their brethren in Chriſt, adverſaries; yet we muſt do it as forced, W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be unto thoſe who have been the occaſion, and by whom this offence commeth: Yet by how much the inſultation of a brotherly enemy are intollerable, being not onely privately, but in publike print: ſo much the more cauſe we ſee, to anſwer directly their fictionate <hi>(Reſolution concerning us.)</hi> And ſince onely for neceſſary defence and Religious cauſe, this task is undertaken, we crave nothing of the Rea<g ref="char:EOLhyphen"/>ders but Patience and Juſtice; of God, victory to the Truth. As for favour, we wiſh for none more then an enemy againſt himſelf. And with this confidence, we enter the Liſts, and turn my pen to an Adverſarie, God knowes whether more proud, or weak.</p>
+            <p>Whereas, you whoſe ſelf-conceited witty ex<g ref="char:EOLhyphen"/>preſſions, without all conſcience have branded us with the ignominious title of a ſeditious and ma<g ref="char:EOLhyphen"/>lignant head (ignorance and obſtinancie being your own phraſes, and therefore beſt beſeeming your ſelves) ſhew but the ardent flames of your cancred ſpleen towards us, intending to hang us up on the hornes of the Altar of your Superſtition, which you do well in conceiving them to be too weak in bear<g ref="char:EOLhyphen"/>ing ſo heavie a burthen, or we too wiſe to be in<g ref="char:EOLhyphen"/>tercepted by them. To exhort and perſwade in zea<g ref="char:EOLhyphen"/>lous manner is to no purpoſe, you being already by your own confeſſion paſt edification, your va<g ref="char:EOLhyphen"/>rieties being Brothels in ſtead of Broths, and Cur<g ref="char:EOLhyphen"/>ſes inſtead of Cuſtards, theſe being your luxurious
+<pb facs="tcp:156374:3"/>fare, wherein you offend God to pleaſe the Divell, I could leave you in that caſe, but that my conſcience moves me further.</p>
+            <p>As for your learning and wits, for which you ſtudy long to little purpoſe, we affect it not, neither any way diſparage: wee reſolve rather to embrace with ſincerity of affection, what bleſſings ſhall be confer'd upon us, through divine inſpiration, that we may ſpeak when the ſpirit moves, you may call us <hi>Round<g ref="char:EOLhyphen"/>heads,</hi> 'tis true, I muſt confeſſe yours are a great deale more in faſhion, being ſet upon the ſquare block of <hi>flat ſimplicity,</hi> as for <hi>Prickears,</hi> I do not admire at your expreſſion therein, your fortune being the Jack<g ref="char:EOLhyphen"/>dawes, who envied the Peacocks for having ſuch fea<g ref="char:EOLhyphen"/>thers as he wanted, I fear me 'tis too many of your caſes, by this the Proverb is proved true, one Jack muſt imitate another.</p>
+            <p>But deare Brethten, think you it is acceptable to God, to jear us by Scripture: is it not the Apoſtles own expreſsion concerning the adding to the Elect, that their bowels did earn to multiply the true church 'tis even our caſes, wee do the like by their example. I rather reſolve out of zeale, to move you to repen<g ref="char:EOLhyphen"/>tance, then to touch too hard upon this your pro<g ref="char:EOLhyphen"/>phaneneſſe. As for <hi>Smell-feaſts,</hi> I make no queſtion, but you are very well skil'd therein, being better noſed, then any Butchers Dogge in the Cittie. As for your habit, it is correſpondent to your perſon, and conditions, your hat that ſits hollow like a bee<g ref="char:EOLhyphen"/>pot to receive the foggie vapours of bottle Ale and
+<pb facs="tcp:156374:4"/>Tobacco, your doublet with a ſhort waſte, ſhews your thrift, who think (the truth) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll waſte that is beſtowed upon you: your goodly long breeches ſo narrow, and ſtrait to your buttocks, like an <hi>Arſe-caſe,</hi> may chance to make a paire of ſleeves in the reverſion. So that generally wherein we exceed in antiquity you go be<g ref="char:EOLhyphen"/>yond us far in ſimplicity, and for our faith you do well to ſpeak little of that, having none your ſelf.</p>
+            <p>And foraſmuch as you have compoſed out of your obſtupufied and dulled fancy, certain tenents, we will likewiſe preſcribe to you the like number, though differing in the matter, being rather good counſell, inſtead of your malevolent and invective aſperſions.</p>
+            <list>
+               <item>
+                  <label>I.</label> THat your Scribes or rather <hi>Duces omnium malo<g ref="char:EOLhyphen"/>rum,</hi> in the next of their witty indeavours, com<g ref="char:EOLhyphen"/>poſed according to Reaſon, Learning, Divinity, Or<g ref="char:EOLhyphen"/>der, Diſcipline, Morality, Piety, and humanity, a pe<g ref="char:EOLunhyphen"/>nitentiary Petition to God; as alſo to acknowledge the wrongs done unto us.</item>
+               <item>
+                  <label>II.</label> That hereafter you be not ſo forward and ready to judge and pray into, to condemne faults in others, before the firſt peruſall of your own.</item>
+               <item>
+                  <label>III.</label> That whilſt you are in this world, you provide by
+<pb facs="tcp:156374:4"/>repentance, faſting, and prayer, to prepare for the world to come, and the Salvation of your ſoules.</item>
+               <item>
+                  <label>IV.</label> That you keepe your ſelves continent and chaſte from the Cobler and Feltmakers wives, unleſſe the one make you pay too dear for ſelling your bever on your block-head, and the other cauſe your pride to have a fall by the loſſe of a <hi>Lunsfords</hi> heele.</item>
+               <item>
+                  <label>V.</label> That you change your name of Cavalier by alte<g ref="char:EOLhyphen"/>ring your profeſsion of evill into good, unleſſe brave<g ref="char:EOLhyphen"/>ry and knavery bring on raggerie and beggery.</item>
+               <item>
+                  <label>VI.</label> That you faſt and pray for your ſins paſt, giving thanks unto God for moving us to be the Agents to perſwade you to repentance.</item>
+            </list>
+            <lg>
+               <l>
+                  <hi>YOu come too late Sir</hi>
+               </l>
+               <l>
+                  <hi>'Tis vain to prate Sir,</hi>
+               </l>
+               <l>
+                  <hi>Wee'l pull the Miter from the Prelates Crown:</hi>
+               </l>
+               <l>
+                  <hi>It is no boot Sir,</hi>
+               </l>
+               <l>
+                  <hi>Though you ſtand toot Sir,</hi>
+               </l>
+               <l>
+                  <hi>Hanging's too good for you, for they muſt down.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Your tricks are found out,</hi>
+               </l>
+               <l>
+                  <hi>We have the ground out</hi>
+               </l>
+               <l>
+                  <hi>You cannot cheat the King, if vve ſtand by.</hi>
+               </l>
+               <l>
+                  <hi>Your Plots diſcry'd out</hi>
+               </l>
+               <l>
+                  <hi>And Troaſons pride out,</hi>
+               </l>
+               <l>
+                  <hi>Againſt the Honour of his Majeſty.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:156374:5"/>
+            <lg>
+               <l>
+                  <hi>Though Round-heads wink at</hi>
+               </l>
+               <l>
+                  <hi>Wee'l make you ſtink at</hi>
+               </l>
+               <l>
+                  <hi>The hearing of your Biſhops ſecond Ditty:</hi>
+               </l>
+               <l>
+                  <hi>Though now you laugh at,</hi>
+               </l>
+               <l>
+                  <hi>And in Sack quaffe at</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>s, then I fear me ye vvill all beſhit ye.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>We ſhall confound ye,</hi>
+               </l>
+               <l>
+                  <hi>If vve expound ye</hi>
+               </l>
+               <l>
+                  <hi>Although within the Circuit of a TUB.</hi>
+               </l>
+               <l>
+                  <hi>Wee'l cry have at ye,</hi>
+               </l>
+               <l>
+                  <hi>Though ne're come at ye,</hi>
+               </l>
+               <l>
+                  <hi>A word will make ſuch Iades as you to ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rub.</hi>
+               </l>
+               <l>
+                  <hi>Let chill cold take thy perſon, Gallows freeze,</hi>
+               </l>
+               <l>
+                  <hi>Earth take thy body Gug, thy cloaths his fees.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
